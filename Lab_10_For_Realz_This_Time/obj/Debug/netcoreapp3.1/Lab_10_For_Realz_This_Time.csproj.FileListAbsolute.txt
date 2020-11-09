@@ -1,0 +1,13 @@
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.exe
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.deps.json
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.runtimeconfig.json
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.runtimeconfig.dev.json
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.dll
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\bin\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.pdb
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.csprojAssemblyReference.cache
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.AssemblyInfoInputs.cache
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.AssemblyInfo.cs
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.csproj.CoreCompileInputs.cache
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.dll
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.pdb
+C:\Users\bzztt\source\repos\Lab_10_For_Realz_This_Time\Lab_10_For_Realz_This_Time\obj\Debug\netcoreapp3.1\Lab_10_For_Realz_This_Time.genruntimeconfig.cache
